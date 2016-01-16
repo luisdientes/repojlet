@@ -5,7 +5,7 @@
 		document.formLogin.submit();
 	}
 </script>
-
+<!-- COmentario prueba git BORRAR -->
 <div class="fondo2">
 <div class="centrado">
  <form method="post" name="formLogin" action="/JLet/App">
