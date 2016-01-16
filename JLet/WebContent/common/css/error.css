@@ -1,0 +1,8 @@
+.container{ margin-top:-32px;background-image: url(../img/varios/fondo_error.jpg);width:100%;height:100%;background-repeat: repeat}
+.error-template {padding: 40px 5px;text-align: center;background: rgba(204, 204, 204, 0.83);width:100%;height:100%}
+.error-actions {margin-top:15px;margin-bottom:15px;}
+.error_code {
+color: #CEDDD1;
+font-size: 322px;
+opacity: 1;
+} 
